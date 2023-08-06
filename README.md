@@ -1,2 +1,2 @@
 # Swing-project
-I developed this birthday party organizer swing based project.
+This is a birthday party organizer Swing based project.
