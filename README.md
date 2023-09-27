@@ -1,2 +1,1 @@
-# Swing-project
-'birthday party' organizer Swing based project.
+'birthday party organizer' swing-based project.
